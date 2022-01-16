@@ -13,3 +13,7 @@ fn main() {
 
     println!("With text: \n{}",content);
 }
+
+fn parse_config(args: &[String]) -> (&str,&str){
+    
+}
